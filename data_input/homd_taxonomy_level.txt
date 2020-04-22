@@ -1,0 +1,791 @@
+Domain	Phylum	Class	Order	Family	Genus	Species	Oral Taxon ID	Domain_Taxon_Count	Phylum_Taxon_Count	Class_Taxon_Count	Order_Taxon_Count	Family_Taxon_Count	Genus_Taxon_Count	Species_Taxon_Count	Domain_Seq_Count	Phylum_Seq_Count	Class_Seq_Count	Order_Seq_Count	Family_Seq_Count	Genus_Seq_Count	Species_Seq_Count	Domain_Clone_Count	Phylum_Clone_Count	Class_Clone_Count	Order_Clone_Count	Family_Clone_Count	Genus_Clone_Count	Species_Clone_Count
+Bacteria	Absconditabacteria (SR1)	Absconditabacteria (SR1) [C-1]	Absconditabacteria (SR1) [O-1]	Absconditabacteria (SR1) [F-1]	Absconditabacteria (SR1) [G-1]	bacterium HMT 345	345	788	5	3	3	3	3	1	1567	1	1	1	1	1	0	0	0	0	0	0	0	0
+Bacteria	Absconditabacteria (SR1)	Absconditabacteria (SR1) [C-1]	Absconditabacteria (SR1) [O-1]	Absconditabacteria (SR1) [F-1]	Absconditabacteria (SR1) [G-1]	bacterium HMT 874	874	788	5	3	3	3	3	1	1567	1	1	1	1	1	1	0	0	0	0	0	0	0
+Bacteria	Absconditabacteria (SR1)	Absconditabacteria (SR1) [C-1]	Absconditabacteria (SR1) [O-1]	Absconditabacteria (SR1) [F-1]	Absconditabacteria (SR1) [G-1]	bacterium HMT 875	875	788	5	3	3	3	3	1	1567	1	1	1	1	1	0	0	0	0	0	0	0	0
+Bacteria	Absconditabacteria (SR1)	Absconditabacteria (SR1) [C-2]	Absconditabacteria (SR1) [O-2]	Absconditabacteria (SR1) [F-2]	Absconditabacteria (SR1) [G-2]	bacterium HMT 990	990	788	5	1	1	1	1	1	1567	1	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Absconditabacteria (SR1)	Absconditabacteria (SR1) [C-3]	Absconditabacteria (SR1) [O-3]	Absconditabacteria (SR1) [F-3]	Absconditabacteria (SR1) [G-3]	bacterium HMT 991	991	788	5	1	1	1	1	1	1567	1	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	dentalis	888	788	118	103	43	34	22	1	1567	299	282	57	44	28	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	gerencseriae	618	788	118	103	43	34	22	1	1567	299	282	57	44	28	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	graevenitzii	866	788	118	103	43	34	22	1	1567	299	282	57	44	28	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	israelii	645	788	118	103	43	34	22	1	1567	299	282	57	44	28	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	johnsonii	849	788	118	103	43	34	22	1	1567	299	282	57	44	28	3	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	massiliensis	852	788	118	103	43	34	22	1	1567	299	282	57	44	28	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	naeslundii	176	788	118	103	43	34	22	1	1567	299	282	57	44	28	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	odontolyticus	701	788	118	103	43	34	22	1	1567	299	282	57	44	28	4	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	oricola	708	788	118	103	43	34	22	1	1567	299	282	57	44	28	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	oris	893	788	118	103	43	34	22	1	1567	299	282	57	44	28	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	radicidentis	746	788	118	103	43	34	22	1	1567	299	282	57	44	28	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	sp. HMT 169	169	788	118	103	43	34	22	1	1567	299	282	57	44	28	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	sp. HMT 170	170	788	118	103	43	34	22	1	1567	299	282	57	44	28	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	sp. HMT 171	171	788	118	103	43	34	22	1	1567	299	282	57	44	28	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	sp. HMT 175	175	788	118	103	43	34	22	1	1567	299	282	57	44	28	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	sp. HMT 414	414	788	118	103	43	34	22	1	1567	299	282	57	44	28	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	sp. HMT 448	448	788	118	103	43	34	22	1	1567	299	282	57	44	28	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	sp. HMT 525	525	788	118	103	43	34	22	1	1567	299	282	57	44	28	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	sp. HMT 896	896	788	118	103	43	34	22	1	1567	299	282	57	44	28	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	sp. HMT 897	897	788	118	103	43	34	22	1	1567	299	282	57	44	28	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	timonensis	179	788	118	103	43	34	22	1	1567	299	282	57	44	28	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	viscosus	688	788	118	103	43	34	22	1	1567	299	282	57	44	28	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Arcanobacterium	haemolyticum	811	788	118	103	43	34	1	1	1567	299	282	57	44	1	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Mobiluncus	mulieris	830	788	118	103	43	34	1	1	1567	299	282	57	44	4	4	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Peptidiphaga	gingivicola	848	788	118	103	43	34	2	1	1567	299	282	57	44	2	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Peptidiphaga	sp. HMT 183	183	788	118	103	43	34	2	1	1567	299	282	57	44	2	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Schaalia	cardiffensis	850	788	118	103	43	34	8	1	1567	299	282	57	44	9	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Schaalia	georgiae	617	788	118	103	43	34	8	1	1567	299	282	57	44	9	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Schaalia	lingnae [Not Validly Published]	181	788	118	103	43	34	8	1	1567	299	282	57	44	9	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Schaalia	meyeri	671	788	118	103	43	34	8	1	1567	299	282	57	44	9	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Schaalia	sp. HMT 172	172	788	118	103	43	34	8	1	1567	299	282	57	44	9	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Schaalia	sp. HMT 178	178	788	118	103	43	34	8	1	1567	299	282	57	44	9	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Schaalia	sp. HMT 180	180	788	118	103	43	34	8	1	1567	299	282	57	44	9	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Schaalia	sp. HMT 877	877	788	118	103	43	34	8	1	1567	299	282	57	44	9	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Dermacoccaceae	Kytococcus	sedentarius	855	788	118	103	43	1	1	1	1567	299	282	57	1	1	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Dietziaceae	Dietzia	cinnamea	368	788	118	103	43	1	1	1	1567	299	282	57	2	2	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Kocuria	palustris	84	788	118	103	43	7	3	1	1567	299	282	57	10	2	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Kocuria	rhizophila	197	788	118	103	43	7	3	1	1567	299	282	57	10	2	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Kocuria	sp. HMT 189	189	788	118	103	43	7	3	1	1567	299	282	57	10	2	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Micrococcus	luteus	87	788	118	103	43	7	1	1	1567	299	282	57	10	1	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Rothia	aeria	188	788	118	103	43	7	3	1	1567	299	282	57	10	7	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Rothia	dentocariosa	587	788	118	103	43	7	3	1	1567	299	282	57	10	7	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Rothia	mucilaginosa	681	788	118	103	43	7	3	1	1567	299	282	57	10	7	3	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Alloscardovia	omnicolens	198	788	118	103	12	12	1	1	1567	299	282	54	54	2	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacteriaceae [G-2]	bacterium HMT 407	407	788	118	103	12	12	1	1	1567	299	282	54	54	0	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	animalis	895	788	118	103	12	12	6	1	1567	299	282	54	54	39	12	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	breve	889	788	118	103	12	12	6	1	1567	299	282	54	54	39	6	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	dentium	588	788	118	103	12	12	6	1	1567	299	282	54	54	39	4	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	longum	862	788	118	103	12	12	6	1	1567	299	282	54	54	39	14	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	scardovii	891	788	118	103	12	12	6	1	1567	299	282	54	54	39	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	subtile	890	788	118	103	12	12	6	1	1567	299	282	54	54	39	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Gardnerella	vaginalis	829	788	118	103	12	12	1	1	1567	299	282	54	54	8	8	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Parascardovia	denticolens	586	788	118	103	12	12	1	1	1567	299	282	54	54	3	3	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Scardovia	inopinata	642	788	118	103	12	12	2	1	1567	299	282	54	54	2	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Scardovia	wiggsiae	195	788	118	103	12	12	2	1	1567	299	282	54	54	2	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	accolens	19	788	118	103	32	28	27	1	1567	299	282	141	129	128	9	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	afermentans	30	788	118	103	32	28	27	1	1567	299	282	141	129	128	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	amycolatum	31	788	118	103	32	28	27	1	1567	299	282	141	129	128	25	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	appendicis	33	788	118	103	32	28	27	1	1567	299	282	141	129	128	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	aurimucosum	34	788	118	103	32	28	27	1	1567	299	282	141	129	128	20	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	bovis	208	788	118	103	32	28	27	1	1567	299	282	141	129	128	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	coyleae	341	788	118	103	32	28	27	1	1567	299	282	141	129	128	10	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	diphtheriae	591	788	118	103	32	28	27	1	1567	299	282	141	129	128	16	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	durum	595	788	118	103	32	28	27	1	1567	299	282	141	129	128	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	jeikeium	47	788	118	103	32	28	27	1	1567	299	282	141	129	128	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	kroppenstedtii	49	788	118	103	32	28	27	1	1567	299	282	141	129	128	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	macginleyi	50	788	118	103	32	28	27	1	1567	299	282	141	129	128	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	massiliense	333	788	118	103	32	28	27	1	1567	299	282	141	129	128	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	mastitidis	328	788	118	103	32	28	27	1	1567	299	282	141	129	128	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	matruchotii	666	788	118	103	32	28	27	1	1567	299	282	141	129	128	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	minutissimum	53	788	118	103	32	28	27	1	1567	299	282	141	129	128	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	mucifaciens	835	788	118	103	32	28	27	1	1567	299	282	141	129	128	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	pilbarense	54	788	118	103	32	28	27	1	1567	299	282	141	129	128	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	propinquum	59	788	118	103	32	28	27	1	1567	299	282	141	129	128	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	pseudodiphtheriticum	60	788	118	103	32	28	27	1	1567	299	282	141	129	128	3	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	simulans	62	788	118	103	32	28	27	1	1567	299	282	141	129	128	8	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	singulare	63	788	118	103	32	28	27	1	1567	299	282	141	129	128	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	sp. HMT 207	207	788	118	103	32	28	27	1	1567	299	282	141	129	128	4	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	striatum	72	788	118	103	32	28	27	1	1567	299	282	141	129	128	3	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	tuberculostearicum	77	788	118	103	32	28	27	1	1567	299	282	141	129	128	7	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	tuscaniense	184	788	118	103	32	28	27	1	1567	299	282	141	129	128	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	urealyticum	853	788	118	103	32	28	27	1	1567	299	282	141	129	128	4	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Turicella	otitidis	832	788	118	103	32	28	1	1	1567	299	282	141	129	1	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriales [F-1]	Lawsonella	clevelandensis	173	788	118	103	32	1	1	1	1567	299	282	141	1	1	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	leprae	823	788	118	103	32	3	3	1	1567	299	282	141	11	11	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	neoaurum	692	788	118	103	32	3	3	1	1567	299	282	141	11	11	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	tuberculosis	822	788	118	103	32	3	3	1	1567	299	282	141	11	11	8	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	paucivorans	340	788	118	103	7	1	1	1	1567	299	282	7	0	0	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Dermabacteraceae	Dermabacter	hominis	354	788	118	103	7	1	1	1	1567	299	282	7	2	2	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Arsenicicoccus	bolidensis	190	788	118	103	7	2	1	1	1567	299	282	7	2	1	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Janibacter	indicus	339	788	118	103	7	2	1	1	1567	299	282	7	2	1	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	flavescens	186	788	118	103	7	2	2	1	1567	299	282	7	2	2	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	ginsengisoli	185	788	118	103	7	2	2	1	1567	299	282	7	2	2	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Sanguibacteraceae	Sanguibacter	keddieii	856	788	118	103	7	1	1	1	1567	299	282	7	1	1	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Arachnia	propionica	739	788	118	103	9	9	2	1	1567	299	282	23	23	2	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Arachnia	rubra	194	788	118	103	9	9	2	1	1567	299	282	23	23	2	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	acnes	530	788	118	103	9	9	4	1	1567	299	282	23	23	18	13	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	avidum	552	788	118	103	9	9	4	1	1567	299	282	23	23	18	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	granulosum	114	788	118	103	9	9	4	1	1567	299	282	23	23	18	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	sp. HMT 193	193	788	118	103	9	9	4	1	1567	299	282	23	23	18	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacteriaceae [G-1]	bacterium HMT 915	915	788	118	103	9	9	1	1	1567	299	282	23	23	0	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacteriaceae [G-2]	bacterium HMT 192	192	788	118	103	9	9	1	1	1567	299	282	23	23	1	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacterium	acidifaciens	191	788	118	103	9	9	1	1	1567	299	282	23	23	2	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella	profusa	806	788	118	15	13	5	5	1	1567	299	17	15	5	5	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella	sp. HMT 807	807	788	118	15	13	5	5	1	1567	299	17	15	5	5	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella	sp. HMT 809	809	788	118	15	13	5	5	1	1567	299	17	15	5	5	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella	sp. HMT 939	939	788	118	15	13	5	5	1	1567	299	17	15	5	5	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella	uli	38	788	118	15	13	5	5	1	1567	299	17	15	5	5	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Atopobium	minutum	674	788	118	15	13	8	7	1	1567	299	17	15	10	9	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Atopobium	parvulum	723	788	118	15	13	8	7	1	1567	299	17	15	10	9	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Atopobium	rimae	750	788	118	15	13	8	7	1	1567	299	17	15	10	9	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Atopobium	sp. HMT 199	199	788	118	15	13	8	7	1	1567	299	17	15	10	9	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Atopobium	sp. HMT 416	416	788	118	15	13	8	7	1	1567	299	17	15	10	9	0	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Atopobium	sp. HMT 810	810	788	118	15	13	8	7	1	1567	299	17	15	10	9	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Atopobium	vaginae	814	788	118	15	13	8	7	1	1567	299	17	15	10	9	2	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Slackia	exigua	602	788	118	15	13	8	1	1	1567	299	17	15	10	1	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Coriobacteriia	Eggerthellales	Eggerthellaceae	Cryptobacterium	curtum	579	788	118	15	2	2	1	1	1567	299	17	2	2	1	1	0	0	0	0	0	0	0
+Bacteria	Actinobacteria	Coriobacteriia	Eggerthellales	Eggerthellaceae	Eggerthella	lenta	654	788	118	15	2	2	1	1	1567	299	17	2	2	1	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidetes [C-1]	Bacteroidetes [O-1]	Bacteroidetes [F-1]	Bacteroidetes [G-3]	bacterium HMT 280	280	788	125	11	11	11	6	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidetes [C-1]	Bacteroidetes [O-1]	Bacteroidetes [F-1]	Bacteroidetes [G-3]	bacterium HMT 281	281	788	125	11	11	11	6	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidetes [C-1]	Bacteroidetes [O-1]	Bacteroidetes [F-1]	Bacteroidetes [G-3]	bacterium HMT 365	365	788	125	11	11	11	6	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidetes [C-1]	Bacteroidetes [O-1]	Bacteroidetes [F-1]	Bacteroidetes [G-3]	bacterium HMT 436	436	788	125	11	11	11	6	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidetes [C-1]	Bacteroidetes [O-1]	Bacteroidetes [F-1]	Bacteroidetes [G-3]	bacterium HMT 503	503	788	125	11	11	11	6	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidetes [C-1]	Bacteroidetes [O-1]	Bacteroidetes [F-1]	Bacteroidetes [G-3]	bacterium HMT 899	899	788	125	11	11	11	6	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidetes [C-1]	Bacteroidetes [O-1]	Bacteroidetes [F-1]	Bacteroidetes [G-4]	bacterium HMT 509	509	788	125	11	11	11	1	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidetes [C-1]	Bacteroidetes [O-1]	Bacteroidetes [F-1]	Bacteroidetes [G-5]	bacterium HMT 505	505	788	125	11	11	11	3	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidetes [C-1]	Bacteroidetes [O-1]	Bacteroidetes [F-1]	Bacteroidetes [G-5]	bacterium HMT 507	507	788	125	11	11	11	3	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidetes [C-1]	Bacteroidetes [O-1]	Bacteroidetes [F-1]	Bacteroidetes [G-5]	bacterium HMT 511	511	788	125	11	11	11	3	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidetes [C-1]	Bacteroidetes [O-1]	Bacteroidetes [F-1]	Bacteroidetes [G-7]	bacterium HMT 911	911	788	125	11	11	11	1	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidetes [C-2]	Bacteroidetes [O-2]	Bacteroidetes [F-2]	Bacteroidetes [G-6]	bacterium HMT 516	516	788	125	1	1	1	1	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroidaceae [G-1]	bacterium HMT 272	272	788	125	79	79	4	1	1	1567	147	127	127	8	1	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	heparinolyticus	630	788	125	79	79	4	3	1	1567	147	127	127	8	7	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	pyogenes	787	788	125	79	79	4	3	1	1567	147	127	127	8	7	5	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	zoogleoformans	465	788	125	79	79	4	3	1	1567	147	127	127	8	7	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidales [F-2]	Bacteroidales [G-2]	bacterium HMT 274	274	788	125	79	79	1	1	1	1567	147	127	127	1	1	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	asaccharolytica	547	788	125	79	79	16	12	1	1567	147	127	127	41	28	2	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	catoniae	283	788	125	79	79	16	12	1	1567	147	127	127	41	28	2	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	endodontalis	273	788	125	79	79	16	12	1	1567	147	127	127	41	28	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	gingivalis	619	788	125	79	79	16	12	1	1567	147	127	127	41	28	19	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	pasteri	279	788	125	79	79	16	12	1	1567	147	127	127	41	28	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	sp. HMT 275	275	788	125	79	79	16	12	1	1567	147	127	127	41	28	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	sp. HMT 277	277	788	125	79	79	16	12	1	1567	147	127	127	41	28	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	sp. HMT 278	278	788	125	79	79	16	12	1	1567	147	127	127	41	28	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	sp. HMT 284	284	788	125	79	79	16	12	1	1567	147	127	127	41	28	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	sp. HMT 285	285	788	125	79	79	16	12	1	1567	147	127	127	41	28	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	sp. HMT 930	930	788	125	79	79	16	12	1	1567	147	127	127	41	28	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	uenonis	785	788	125	79	79	16	12	1	1567	147	127	127	41	28	2	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Tannerella	forsythia	613	788	125	79	79	16	4	1	1567	147	127	127	41	13	2	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Tannerella	sp. HMT 286	286	788	125	79	79	16	4	1	1567	147	127	127	41	13	8	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Tannerella	sp. HMT 808	808	788	125	79	79	16	4	1	1567	147	127	127	41	13	3	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Tannerella	sp. HMT 916	916	788	125	79	79	16	4	1	1567	147	127	127	41	13	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	rava	302	788	125	79	79	58	7	1	1567	147	127	127	77	4	2	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	sp. HMT 308	308	788	125	79	79	58	7	1	1567	147	127	127	77	4	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	sp. HMT 473	473	788	125	79	79	58	7	1	1567	147	127	127	77	4	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	sp. HMT 912	912	788	125	79	79	58	7	1	1567	147	127	127	77	4	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	sp. HMT 913	913	788	125	79	79	58	7	1	1567	147	127	127	77	4	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	sp. HMT 914	914	788	125	79	79	58	7	1	1567	147	127	127	77	4	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	tannerae	466	788	125	79	79	58	7	1	1567	147	127	127	77	4	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	aurantiaca	943	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	baroniae	553	788	125	79	79	58	51	1	1567	147	127	127	77	73	3	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	bivia	556	788	125	79	79	58	51	1	1567	147	127	127	77	73	5	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	buccae	560	788	125	79	79	58	51	1	1567	147	127	127	77	73	2	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	buccalis	562	788	125	79	79	58	51	1	1567	147	127	127	77	73	3	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	dentalis	583	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	denticola	291	788	125	79	79	58	51	1	1567	147	127	127	77	73	5	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	enoeca	600	788	125	79	79	58	51	1	1567	147	127	127	77	73	2	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	fusca	782	788	125	79	79	58	51	1	1567	147	127	127	77	73	2	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	histicola	298	788	125	79	79	58	51	1	1567	147	127	127	77	73	2	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	intermedia	643	788	125	79	79	58	51	1	1567	147	127	127	77	73	2	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	loescheii	658	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	maculosa	289	788	125	79	79	58	51	1	1567	147	127	127	77	73	3	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	marshii	665	788	125	79	79	58	51	1	1567	147	127	127	77	73	2	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	melaninogenica	469	788	125	79	79	58	51	1	1567	147	127	127	77	73	3	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	micans	378	788	125	79	79	58	51	1	1567	147	127	127	77	73	3	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	multiformis	685	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	multisaccharivorax	794	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	nanceiensis	299	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	nigrescens	693	788	125	79	79	58	51	1	1567	147	127	127	77	73	3	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	oralis	705	788	125	79	79	58	51	1	1567	147	127	127	77	73	3	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	oris	311	788	125	79	79	58	51	1	1567	147	127	127	77	73	3	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	oulorum	288	788	125	79	79	58	51	1	1567	147	127	127	77	73	2	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	pallens	714	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	pleuritidis	303	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	saccharolytica	781	788	125	79	79	58	51	1	1567	147	127	127	77	73	2	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	salivae	307	788	125	79	79	58	51	1	1567	147	127	127	77	73	2	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	scopos	885	788	125	79	79	58	51	1	1567	147	127	127	77	73	2	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	shahii	795	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 292	292	788	125	79	79	58	51	1	1567	147	127	127	77	73	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 293	293	788	125	79	79	58	51	1	1567	147	127	127	77	73	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 300	300	788	125	79	79	58	51	1	1567	147	127	127	77	73	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 301	301	788	125	79	79	58	51	1	1567	147	127	127	77	73	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 304	304	788	125	79	79	58	51	1	1567	147	127	127	77	73	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 305	305	788	125	79	79	58	51	1	1567	147	127	127	77	73	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 306	306	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 309	309	788	125	79	79	58	51	1	1567	147	127	127	77	73	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 313	313	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 314	314	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 315	315	788	125	79	79	58	51	1	1567	147	127	127	77	73	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 317	317	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 376	376	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 396	396	788	125	79	79	58	51	1	1567	147	127	127	77	73	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 443	443	788	125	79	79	58	51	1	1567	147	127	127	77	73	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 472	472	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 475	475	788	125	79	79	58	51	1	1567	147	127	127	77	73	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 515	515	788	125	79	79	58	51	1	1567	147	127	127	77	73	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 526	526	788	125	79	79	58	51	1	1567	147	127	127	77	73	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 820	820	788	125	79	79	58	51	1	1567	147	127	127	77	73	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	sp. HMT 942	942	788	125	79	79	58	51	1	1567	147	127	127	77	73	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	veroralis	572	788	125	79	79	58	51	1	1567	147	127	127	77	73	3	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Chitinophagia	Chitinophagales	Chitinophagaceae	Flavitalea	sp. HMT 320	320	788	125	2	2	2	1	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Chitinophagia	Chitinophagales	Chitinophagaceae	Segetibacter	aerophilus	261	788	125	2	2	2	1	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Bergeyella	sp. HMT 206	206	788	125	29	29	29	7	1	1567	147	20	20	20	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Bergeyella	sp. HMT 319	319	788	125	29	29	29	7	1	1567	147	20	20	20	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Bergeyella	sp. HMT 322	322	788	125	29	29	29	7	1	1567	147	20	20	20	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Bergeyella	sp. HMT 422	422	788	125	29	29	29	7	1	1567	147	20	20	20	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Bergeyella	sp. HMT 900	900	788	125	29	29	29	7	1	1567	147	20	20	20	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Bergeyella	sp. HMT 907	907	788	125	29	29	29	7	1	1567	147	20	20	20	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Bergeyella	sp. HMT 931	931	788	125	29	29	29	7	1	1567	147	20	20	20	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	gingivalis	337	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	granulosa	325	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	haemolytica	627	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	leadbetteri	329	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	ochracea	700	788	125	29	29	29	22	1	1567	147	20	20	20	20	3	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 323	323	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 324	324	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 326	326	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 332	332	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 334	334	788	125	29	29	29	22	1	1567	147	20	20	20	20	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 335	335	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 336	336	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 338	338	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 380	380	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 412	412	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 863	863	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 864	864	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 878	878	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 901	901	788	125	29	29	29	22	1	1567	147	20	20	20	20	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 902	902	788	125	29	29	29	22	1	1567	147	20	20	20	20	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sp. HMT 903	903	788	125	29	29	29	22	1	1567	147	20	20	20	20	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	sputigena	775	788	125	29	29	29	22	1	1567	147	20	20	20	20	1	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	sp. HMT 318	318	788	125	3	3	3	3	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	sp. HMT 321	321	788	125	3	3	3	3	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	sp. HMT 933	933	788	125	3	3	3	3	1	1567	147	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Chlamydiae	Chlamydiia	Chlamydiales	Chlamydiaceae	Chlamydophila	pneumoniae	733	788	1	1	1	1	1	1	1567	5	5	5	5	5	5	0	0	0	0	0	0	0
+Bacteria	Chlorobi	Chlorobia	Chlorobiales	Chlorobiaceae	Chlorobium	limicola	984	788	3	1	1	1	1	1	1567	3	1	1	1	1	1	0	0	0	0	0	0	0
+Bacteria	Chlorobi	Ignavibacteria	Ignavibacteriales	Ignavibacteriaceae	Ignavibacterium	album	982	788	3	2	2	1	1	1	1567	3	2	2	1	1	1	0	0	0	0	0	0	0
+Bacteria	Chlorobi	Ignavibacteria	Ignavibacteriales	Melioribacteraceae	Melioribacter	roseus	983	788	3	2	2	1	1	1	1567	3	2	2	1	1	1	0	0	0	0	0	0	0
+Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Anaerolinea	thermophila	995	788	3	2	2	2	1	1	1567	5	4	4	4	1	1	0	0	0	0	0	0	0
+Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Anaerolineae [G-1]	bacterium HMT 439	439	788	3	2	2	2	1	1	1567	5	4	4	4	3	3	0	0	0	0	0	0	0
+Bacteria	Chloroflexi	Caldilineae	Caldilineales	Caldilineaceae	Caldilinea	aerophila	994	788	3	1	1	1	1	1	1567	5	1	1	1	1	1	0	0	0	0	0	0	0
+Bacteria	Cyanobacteria	Oscillatoriophycideae	Oscillatoriophycideae	Oscillatoriales	Arthrospira	platensis	229	788	1	1	1	1	1	1	1567	1	1	1	1	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Anoxybacillus	flavithermus	182	788	266	104	29	5	1	1	1567	588	465	123	24	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	anthracis	824	788	266	104	29	5	3	1	1567	588	465	123	24	21	13	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	clausii	45	788	266	104	29	5	3	1	1567	588	465	123	24	21	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	subtilis	468	788	266	104	29	5	3	1	1567	588	465	123	24	21	7	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Lysinibacillus	fusiformis	614	788	266	104	29	5	1	1	1567	588	465	123	24	2	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Gemellaceae	Gemella	bergeri	555	788	266	104	29	5	5	1	1567	588	465	123	6	6	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Gemellaceae	Gemella	haemolysans	626	788	266	104	29	5	5	1	1567	588	465	123	6	6	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Gemellaceae	Gemella	morbillorum	46	788	266	104	29	5	5	1	1567	588	465	123	6	6	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Gemellaceae	Gemella	sanguinis	757	788	266	104	29	5	5	1	1567	588	465	123	6	6	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Gemellaceae	Gemella	sp. HMT 928	928	788	266	104	29	5	5	1	1567	588	465	123	6	6	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	thermosphacta	241	788	266	104	29	2	1	1	1567	588	465	123	24	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	monocytogenes	825	788	266	104	29	2	1	1	1567	588	465	123	24	23	23	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	glucanolyticus	921	788	266	104	29	3	3	1	1567	588	465	123	3	3	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	phoenicis	786	788	266	104	29	3	3	1	1567	588	465	123	3	3	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	sp. HMT 048	48	788	266	104	29	3	3	1	1567	588	465	123	3	3	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Jeotgalicoccus	huakuii	243	788	266	104	29	14	1	1	1567	588	465	123	66	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	aureus	550	788	266	104	29	14	13	1	1567	588	465	123	66	66	41	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	auricularis	331	788	266	104	29	14	13	1	1567	588	465	123	66	66	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	capitis	116	788	266	104	29	14	13	1	1567	588	465	123	66	66	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	caprae	567	788	266	104	29	14	13	1	1567	588	465	123	66	66	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	cohnii	117	788	266	104	29	14	13	1	1567	588	465	123	66	66	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	epidermidis	601	788	266	104	29	14	13	1	1567	588	465	123	66	66	10	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	haemolyticus	120	788	266	104	29	14	13	1	1567	588	465	123	66	66	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	hominis	127	788	266	104	29	14	13	1	1567	588	465	123	66	66	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	lugdunensis	128	788	266	104	29	14	13	1	1567	588	465	123	66	66	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	pasteuri	141	788	266	104	29	14	13	1	1567	588	465	123	66	66	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	pettenkoferi	142	788	266	104	29	14	13	1	1567	588	465	123	66	66	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	schleiferi	233	788	266	104	29	14	13	1	1567	588	465	123	66	66	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	warneri	76	788	266	104	29	14	13	1	1567	588	465	123	66	66	5	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Abiotrophia	defectiva	389	788	266	104	75	2	1	1	1567	588	465	342	2	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Aerococcus	viridans	312	788	266	104	75	2	1	1	1567	588	465	342	2	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Alloiococcus	otitis	831	788	266	104	75	4	1	1	1567	588	465	342	4	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Dolosigranulum	pigrum	813	788	266	104	75	4	1	1	1567	588	465	342	4	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella	adiacens	534	788	266	104	75	4	2	1	1567	588	465	342	4	2	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella	elegans	596	788	266	104	75	4	2	1	1567	588	465	342	4	2	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	casseliflavus	801	788	266	104	75	5	5	1	1567	588	465	342	17	17	3	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	durans	880	788	266	104	75	5	5	1	1567	588	465	342	17	17	3	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	faecalis	604	788	266	104	75	5	5	1	1567	588	465	342	17	17	8	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	italicus	803	788	266	104	75	5	5	1	1567	588	465	342	17	17	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	saccharolyticus	802	788	266	104	75	5	5	1	1567	588	465	342	17	17	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	acidophilus	529	788	266	104	75	26	26	1	1567	588	465	342	119	119	9	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	brevis	558	788	266	104	75	26	26	1	1567	588	465	342	119	119	3	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	buchneri	881	788	266	104	75	26	26	1	1567	588	465	342	119	119	3	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	casei	568	788	266	104	75	26	26	1	1567	588	465	342	119	119	9	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	coleohominis	816	788	266	104	75	26	26	1	1567	588	465	342	119	119	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	crispatus	817	788	266	104	75	26	26	1	1567	588	465	342	119	119	5	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	fermentum	608	788	266	104	75	26	26	1	1567	588	465	342	119	119	5	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	gasseri	615	788	266	104	75	26	26	1	1567	588	465	342	119	119	7	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	iners	838	788	266	104	75	26	26	1	1567	588	465	342	119	119	14	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	jensenii	839	788	266	104	75	26	26	1	1567	588	465	342	119	119	3	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	johnsonii	819	788	266	104	75	26	26	1	1567	588	465	342	119	119	6	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	kisonensis	424	788	266	104	75	26	26	1	1567	588	465	342	119	119	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	oris	709	788	266	104	75	26	26	1	1567	588	465	342	119	119	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	panis	882	788	266	104	75	26	26	1	1567	588	465	342	119	119	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	paracasei	716	788	266	104	75	26	26	1	1567	588	465	342	119	119	6	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	parafarraginis	418	788	266	104	75	26	26	1	1567	588	465	342	119	119	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	pentosus	883	788	266	104	75	26	26	1	1567	588	465	342	119	119	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	plantarum	861	788	266	104	75	26	26	1	1567	588	465	342	119	119	10	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	rapi	884	788	266	104	75	26	26	1	1567	588	465	342	119	119	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	reuteri clade 818	818	788	266	104	75	26	26	1	1567	588	465	342	119	119	9	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	reuteri clade 938	938	788	266	104	75	26	26	1	1567	588	465	342	119	119	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	rhamnosus	749	788	266	104	75	26	26	1	1567	588	465	342	119	119	12	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	salivarius	756	788	266	104	75	26	26	1	1567	588	465	342	119	119	8	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	sp. HMT 052	52	788	266	104	75	26	26	1	1567	588	465	342	119	119	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	ultunensis	461	788	266	104	75	26	26	1	1567	588	465	342	119	119	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	vaginalis	51	788	266	104	75	26	26	1	1567	588	465	342	119	119	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	lactis	804	788	266	104	75	38	1	1	1567	588	465	342	200	13	13	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	agalactiae	537	788	266	104	75	38	37	1	1567	588	465	342	200	187	11	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	anginosus	543	788	266	104	75	38	37	1	1567	588	465	342	200	187	8	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	australis	73	788	266	104	75	38	37	1	1567	588	465	342	200	187	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	constellatus	576	788	266	104	75	38	37	1	1567	588	465	342	200	187	5	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	cristatus clade 578	578	788	266	104	75	38	37	1	1567	588	465	342	200	187	6	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	cristatus clade 886	886	788	266	104	75	38	37	1	1567	588	465	342	200	187	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	downei	594	788	266	104	75	38	37	1	1567	588	465	342	200	187	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	gordonii	622	788	266	104	75	38	37	1	1567	588	465	342	200	187	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	infantis clade 431	431	788	266	104	75	38	37	1	1567	588	465	342	200	187	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	infantis clade 638	638	788	266	104	75	38	37	1	1567	588	465	342	200	187	7	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	intermedius	644	788	266	104	75	38	37	1	1567	588	465	342	200	187	8	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	lactarius	948	788	266	104	75	38	37	1	1567	588	465	342	200	187	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	mitis	677	788	266	104	75	38	37	1	1567	588	465	342	200	187	12	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	mutans	686	788	266	104	75	38	37	1	1567	588	465	342	200	187	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	oralis subsp. dentisani clade 058	58	788	266	104	75	38	37	1	1567	588	465	342	200	187	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	oralis subsp. dentisani clade 398	398	788	266	104	75	38	37	1	1567	588	465	342	200	187	3	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	oralis subsp. oralis	707	788	266	104	75	38	37	1	1567	588	465	342	200	187	11	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	oralis subsp. tigurinus clade 070	70	788	266	104	75	38	37	1	1567	588	465	342	200	187	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	oralis subsp. tigurinus clade 071	71	788	266	104	75	38	37	1	1567	588	465	342	200	187	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	parasanguinis clade 411	411	788	266	104	75	38	37	1	1567	588	465	342	200	187	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	parasanguinis clade 721	721	788	266	104	75	38	37	1	1567	588	465	342	200	187	6	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	peroris	728	788	266	104	75	38	37	1	1567	588	465	342	200	187	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	pneumoniae	734	788	266	104	75	38	37	1	1567	588	465	342	200	187	52	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	pyogenes	745	788	266	104	75	38	37	1	1567	588	465	342	200	187	17	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	salivarius	755	788	266	104	75	38	37	1	1567	588	465	342	200	187	8	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	sanguinis	758	788	266	104	75	38	37	1	1567	588	465	342	200	187	13	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	sinensis	767	788	266	104	75	38	37	1	1567	588	465	342	200	187	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	sobrinus	768	788	266	104	75	38	37	1	1567	588	465	342	200	187	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	sp. HMT 056	56	788	266	104	75	38	37	1	1567	588	465	342	200	187	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	sp. HMT 057	57	788	266	104	75	38	37	1	1567	588	465	342	200	187	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	sp. HMT 061	61	788	266	104	75	38	37	1	1567	588	465	342	200	187	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	sp. HMT 064	64	788	266	104	75	38	37	1	1567	588	465	342	200	187	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	sp. HMT 066	66	788	266	104	75	38	37	1	1567	588	465	342	200	187	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	sp. HMT 074	74	788	266	104	75	38	37	1	1567	588	465	342	200	187	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	sp. HMT 423	423	788	266	104	75	38	37	1	1567	588	465	342	200	187	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	thermophilus	152	788	266	104	75	38	37	1	1567	588	465	342	200	187	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	vestibularis	21	788	266	104	75	38	37	1	1567	588	465	342	200	187	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales [F-1]	Clostridiales [F-1][G-1]	bacterium HMT 093	93	788	266	92	92	2	1	1	1567	588	61	61	0	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales [F-1]	Clostridiales [F-1][G-2]	bacterium HMT 402	402	788	266	92	92	2	1	1	1567	588	61	61	0	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales [F-3]	Clostridiales [F-3][G-1]	bacterium HMT 876	876	788	266	92	92	1	1	1	1567	588	61	61	1	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae [XV]	Eubacterium	limosum	655	788	266	92	92	2	1	1	1567	588	61	61	2	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae [XV]	Pseudoramibacter	alactolyticus	538	788	266	92	92	2	1	1	1567	588	61	61	2	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Butyrivibrio	sp. HMT 080	80	788	266	92	92	32	3	1	1567	588	61	61	16	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Butyrivibrio	sp. HMT 090	90	788	266	92	92	32	3	1	1567	588	61	61	16	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Butyrivibrio	sp. HMT 455	455	788	266	92	92	32	3	1	1567	588	61	61	16	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Catonella	morbi	165	788	266	92	92	32	3	1	1567	588	61	61	16	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Catonella	sp. HMT 164	164	788	266	92	92	32	3	1	1567	588	61	61	16	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Catonella	sp. HMT 451	451	788	266	92	92	32	3	1	1567	588	61	61	16	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Johnsonella	ignava	635	788	266	92	92	32	2	1	1567	588	61	61	16	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Johnsonella	sp. HMT 166	166	788	266	92	92	32	2	1	1567	588	61	61	16	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Lachnoanaerobaculum	orale	82	788	266	92	92	32	6	1	1567	588	61	61	16	5	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Lachnoanaerobaculum	saburreum	494	788	266	92	92	32	6	1	1567	588	61	61	16	5	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Lachnoanaerobaculum	sp. HMT 083	83	788	266	92	92	32	6	1	1567	588	61	61	16	5	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Lachnoanaerobaculum	sp. HMT 089	89	788	266	92	92	32	6	1	1567	588	61	61	16	5	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Lachnoanaerobaculum	sp. HMT 496	496	788	266	92	92	32	6	1	1567	588	61	61	16	5	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Lachnoanaerobaculum	umeaense	107	788	266	92	92	32	6	1	1567	588	61	61	16	5	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Lachnospiraceae [G-10]	bacterium HMT 094	94	788	266	92	92	32	1	1	1567	588	61	61	16	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Lachnospiraceae [G-2]	bacterium HMT 088	88	788	266	92	92	32	2	1	1567	588	61	61	16	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Lachnospiraceae [G-2]	bacterium HMT 096	96	788	266	92	92	32	2	1	1567	588	61	61	16	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Lachnospiraceae [G-3]	bacterium HMT 100	100	788	266	92	92	32	1	1	1567	588	61	61	16	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Lachnospiraceae [G-7]	bacterium HMT 086	86	788	266	92	92	32	2	1	1567	588	61	61	16	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Lachnospiraceae [G-7]	bacterium HMT 163	163	788	266	92	92	32	2	1	1567	588	61	61	16	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Lachnospiraceae [G-8]	bacterium HMT 500	500	788	266	92	92	32	1	1	1567	588	61	61	16	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Lachnospiraceae [G-9]	bacterium HMT 924	924	788	266	92	92	32	1	1	1567	588	61	61	16	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Oribacterium	asaccharolyticum	108	788	266	92	92	32	5	1	1567	588	61	61	16	5	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Oribacterium	parvum	934	788	266	92	92	32	5	1	1567	588	61	61	16	5	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Oribacterium	sinus	457	788	266	92	92	32	5	1	1567	588	61	61	16	5	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Oribacterium	sp. HMT 078	78	788	266	92	92	32	5	1	1567	588	61	61	16	5	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Oribacterium	sp. HMT 102	102	788	266	92	92	32	5	1	1567	588	61	61	16	5	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Shuttleworthia	satelles	95	788	266	92	92	32	1	1	1567	588	61	61	16	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Stomatobaculum	longum	419	788	266	92	92	32	4	1	1567	588	61	61	16	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Stomatobaculum	sp. HMT 097	97	788	266	92	92	32	4	1	1567	588	61	61	16	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Stomatobaculum	sp. HMT 373	373	788	266	92	92	32	4	1	1567	588	61	61	16	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae [XIV]	Stomatobaculum	sp. HMT 910	910	788	266	92	92	32	4	1	1567	588	61	61	16	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Peptococcus	sp. HMT 167	167	788	266	92	92	2	2	1	1567	588	61	61	0	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Peptococcus	sp. HMT 168	168	788	266	92	92	2	2	1	1567	588	61	61	0	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Anaerococcus	lactolyticus	859	788	266	92	92	21	7	1	1567	588	61	61	25	4	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Anaerococcus	octavius	17	788	266	92	92	21	7	1	1567	588	61	61	25	4	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Anaerococcus	prevotii	738	788	266	92	92	21	7	1	1567	588	61	61	25	4	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Anaerococcus	sp. HMT 290	290	788	266	92	92	21	7	1	1567	588	61	61	25	4	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Anaerococcus	sp. HMT 294	294	788	266	92	92	21	7	1	1567	588	61	61	25	4	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Anaerococcus	sp. HMT 295	295	788	266	92	92	21	7	1	1567	588	61	61	25	4	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Anaerococcus	tetradius	788	788	266	92	92	21	7	1	1567	588	61	61	25	4	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Finegoldia	magna	662	788	266	92	92	21	1	1	1567	588	61	61	25	6	6	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Parvimonas	micra	111	788	266	92	92	21	3	1	1567	588	61	61	25	3	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Parvimonas	sp. HMT 110	110	788	266	92	92	21	3	1	1567	588	61	61	25	3	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Parvimonas	sp. HMT 393	393	788	266	92	92	21	3	1	1567	588	61	61	25	3	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Peptoniphilaceae [G-1]	bacterium HMT 113	113	788	266	92	92	21	1	1	1567	588	61	61	25	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Peptoniphilaceae [G-2]	bacterium HMT 790	790	788	266	92	92	21	1	1	1567	588	61	61	25	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Peptoniphilaceae [G-3]	bacterium HMT 929	929	788	266	92	92	21	1	1	1567	588	61	61	25	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Peptoniphilus	asaccharolyticus	548	788	266	92	92	21	7	1	1567	588	61	61	25	10	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Peptoniphilus	harei	109	788	266	92	92	21	7	1	1567	588	61	61	25	10	3	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Peptoniphilus	indolicus	840	788	266	92	92	21	7	1	1567	588	61	61	25	10	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Peptoniphilus	lacrimalis	836	788	266	92	92	21	7	1	1567	588	61	61	25	10	3	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Peptoniphilus	sp. HMT 187	187	788	266	92	92	21	7	1	1567	588	61	61	25	10	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Peptoniphilus	sp. HMT 375	375	788	266	92	92	21	7	1	1567	588	61	61	25	10	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptoniphilaceae	Peptoniphilus	sp. HMT 386	386	788	266	92	92	21	7	1	1567	588	61	61	25	10	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Filifactor	alocis	539	788	266	92	92	26	1	1	1567	588	61	61	16	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Mogibacterium	diversum	593	788	266	92	92	26	5	1	1567	588	61	61	16	3	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Mogibacterium	neglectum	691	788	266	92	92	26	5	1	1567	588	61	61	16	3	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Mogibacterium	pumilum	742	788	266	92	92	26	5	1	1567	588	61	61	16	3	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Mogibacterium	timidum	42	788	266	92	92	26	5	1	1567	588	61	61	16	3	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Mogibacterium	vescum	8	788	266	92	92	26	5	1	1567	588	61	61	16	3	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-1]	bacterium HMT 383	383	788	266	92	92	26	3	1	1567	588	61	61	16	3	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-1]	[Eubacterium] infirmum	105	788	266	92	92	26	3	1	1567	588	61	61	16	3	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-1]	[Eubacterium] sulci	467	788	266	92	92	26	3	1	1567	588	61	61	16	3	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-2]	bacterium HMT 091	91	788	266	92	92	26	1	1	1567	588	61	61	16	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-3]	bacterium HMT 495	495	788	266	92	92	26	2	1	1567	588	61	61	16	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-3]	bacterium HMT 950	950	788	266	92	92	26	2	1	1567	588	61	61	16	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-4]	bacterium HMT 103	103	788	266	92	92	26	2	1	1567	588	61	61	16	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-4]	bacterium HMT 369	369	788	266	92	92	26	2	1	1567	588	61	61	16	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-5]	bacterium HMT 493	493	788	266	92	92	26	2	1	1567	588	61	61	16	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-5]	[Eubacterium] saphenum	759	788	266	92	92	26	2	1	1567	588	61	61	16	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-6]	[Eubacterium] minutum	673	788	266	92	92	26	2	1	1567	588	61	61	16	2	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-6]	[Eubacterium] nodatum	694	788	266	92	92	26	2	1	1567	588	61	61	16	2	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-7]	bacterium HMT 081	81	788	266	92	92	26	4	1	1567	588	61	61	16	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-7]	bacterium HMT 922	922	788	266	92	92	26	4	1	1567	588	61	61	16	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-7]	[Eubacterium] yurii subsp. schtitka	106	788	266	92	92	26	4	1	1567	588	61	61	16	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-7]	[Eubacterium] yurii subsps. yurii & margaretiae	377	788	266	92	92	26	4	1	1567	588	61	61	16	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-8]	bacterium HMT 382	382	788	266	92	92	26	1	1	1567	588	61	61	16	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcaceae [XI][G-9]	[Eubacterium] brachy	557	788	266	92	92	26	1	1	1567	588	61	61	16	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcus	anaerobius	542	788	266	92	92	26	2	1	1567	588	61	61	16	4	3	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae [XI]	Peptostreptococcus	stomatis	112	788	266	92	92	26	2	1	1567	588	61	61	16	4	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Fastidiosipila	sanguinis	935	788	266	92	92	5	1	1	1567	588	61	61	1	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae [G-1]	bacterium HMT 075	75	788	266	92	92	5	1	1	1567	588	61	61	1	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae [G-2]	bacterium HMT 085	85	788	266	92	92	5	1	1	1567	588	61	61	1	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae [G-3]	bacterium HMT 366	366	788	266	92	92	5	2	1	1567	588	61	61	1	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae [G-3]	bacterium HMT 381	381	788	266	92	92	5	2	1	1567	588	61	61	1	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Clostridia	Clostridiales	Syntrophomonadaceae [VIII]	Syntrophomonadaceae [VIII][G-1]	bacterium HMT 435	435	788	266	92	92	1	1	1	1567	588	61	61	0	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Bulleidia	extructa	603	788	266	6	6	6	1	1	1567	588	8	8	8	2	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Eggerthia	catenaformis	569	788	266	6	6	6	1	1	1567	588	8	8	8	2	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelothrix	tonsillarum	484	788	266	6	6	6	1	1	1567	588	8	8	8	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae [G-1]	bacterium HMT 904	904	788	266	6	6	6	2	1	1567	588	8	8	8	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae [G-1]	bacterium HMT 905	905	788	266	6	6	6	2	1	1567	588	8	8	8	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Solobacterium	moorei	678	788	266	6	6	6	1	1	1567	588	8	8	8	3	3	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Mollicutes	Mollicutes [O-1]	Mollicutes [F-1]	Mollicutes [G-1]	bacterium HMT 504	504	788	266	11	1	1	1	1	1567	588	17	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Mollicutes	Mollicutes [O-2]	Mollicutes [F-2]	Mollicutes [G-2]	bacterium HMT 906	906	788	266	11	1	1	1	1	1567	588	17	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	buccale	561	788	266	11	9	9	9	1	1567	588	17	17	17	17	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	faucium	606	788	266	11	9	9	9	1	1567	588	17	17	17	17	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	fermentans	607	788	266	11	9	9	9	1	1567	588	17	17	17	17	3	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	genitalium	616	788	266	11	9	9	9	1	1567	588	17	17	17	17	6	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	hominis	632	788	266	11	9	9	9	1	1567	588	17	17	17	17	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	lipophilum	656	788	266	11	9	9	9	1	1567	588	17	17	17	17	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	orale	704	788	266	11	9	9	9	1	1567	588	17	17	17	17	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	pneumoniae	732	788	266	11	9	9	9	1	1567	588	17	17	17	17	4	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	salivarium	754	788	266	11	9	9	9	1	1567	588	17	17	17	17	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Centipeda	periodontii	726	788	266	53	29	29	1	1	1567	588	37	19	19	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Mitsuokella	multacida	684	788	266	53	29	29	3	1	1567	588	37	19	19	2	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Mitsuokella	sp. HMT 131	131	788	266	53	29	29	3	1	1567	588	37	19	19	2	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Mitsuokella	sp. HMT 521	521	788	266	53	29	29	3	1	1567	588	37	19	19	2	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	artemidis	124	788	266	53	29	29	25	1	1567	588	37	19	19	16	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	dianae	139	788	266	53	29	29	25	1	1567	588	37	19	19	16	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	flueggei	125	788	266	53	29	29	25	1	1567	588	37	19	19	16	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	infelix	639	788	266	53	29	29	25	1	1567	588	37	19	19	16	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	noxia	130	788	266	53	29	29	25	1	1567	588	37	19	19	16	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 126	126	788	266	53	29	29	25	1	1567	588	37	19	19	16	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 133	133	788	266	53	29	29	25	1	1567	588	37	19	19	16	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 134	134	788	266	53	29	29	25	1	1567	588	37	19	19	16	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 136	136	788	266	53	29	29	25	1	1567	588	37	19	19	16	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 137	137	788	266	53	29	29	25	1	1567	588	37	19	19	16	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 138	138	788	266	53	29	29	25	1	1567	588	37	19	19	16	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 146	146	788	266	53	29	29	25	1	1567	588	37	19	19	16	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 149	149	788	266	53	29	29	25	1	1567	588	37	19	19	16	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 388	388	788	266	53	29	29	25	1	1567	588	37	19	19	16	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 442	442	788	266	53	29	29	25	1	1567	588	37	19	19	16	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 478	478	788	266	53	29	29	25	1	1567	588	37	19	19	16	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 479	479	788	266	53	29	29	25	1	1567	588	37	19	19	16	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 481	481	788	266	53	29	29	25	1	1567	588	37	19	19	16	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 501	501	788	266	53	29	29	25	1	1567	588	37	19	19	16	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 892	892	788	266	53	29	29	25	1	1567	588	37	19	19	16	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 919	919	788	266	53	29	29	25	1	1567	588	37	19	19	16	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 920	920	788	266	53	29	29	25	1	1567	588	37	19	19	16	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 936	936	788	266	53	29	29	25	1	1567	588	37	19	19	16	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sp. HMT 937	937	788	266	53	29	29	25	1	1567	588	37	19	19	16	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	sputigena	151	788	266	53	29	29	25	1	1567	588	37	19	19	16	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Anaeroglobus	geminatus	121	788	266	53	24	24	1	1	1567	588	37	18	18	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Dialister	invisus	118	788	266	53	24	24	4	1	1567	588	37	18	18	3	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Dialister	micraerophilus	843	788	266	53	24	24	4	1	1567	588	37	18	18	3	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Dialister	pneumosintes	736	788	266	53	24	24	4	1	1567	588	37	18	18	3	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Dialister	sp. HMT 119	119	788	266	53	24	24	4	1	1567	588	37	18	18	3	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Megasphaera	micronuciformis	122	788	266	53	24	24	3	1	1567	588	37	18	18	1	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Megasphaera	sp. HMT 123	123	788	266	53	24	24	3	1	1567	588	37	18	18	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Megasphaera	sp. HMT 841	841	788	266	53	24	24	3	1	1567	588	37	18	18	1	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	atypica	524	788	266	53	24	24	7	1	1567	588	37	18	18	13	3	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	denticariosi	887	788	266	53	24	24	7	1	1567	588	37	18	18	13	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	dispar	160	788	266	53	24	24	7	1	1567	588	37	18	18	13	2	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	parvula	161	788	266	53	24	24	7	1	1567	588	37	18	18	13	5	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	rogosae	158	788	266	53	24	24	7	1	1567	588	37	18	18	13	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	sp. HMT 780	780	788	266	53	24	24	7	1	1567	588	37	18	18	13	1	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	sp. HMT 917	917	788	266	53	24	24	7	1	1567	588	37	18	18	13	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonellaceae [G-1]	bacterium HMT 129	129	788	266	53	24	24	9	1	1567	588	37	18	18	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonellaceae [G-1]	bacterium HMT 132	132	788	266	53	24	24	9	1	1567	588	37	18	18	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonellaceae [G-1]	bacterium HMT 135	135	788	266	53	24	24	9	1	1567	588	37	18	18	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonellaceae [G-1]	bacterium HMT 145	145	788	266	53	24	24	9	1	1567	588	37	18	18	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonellaceae [G-1]	bacterium HMT 148	148	788	266	53	24	24	9	1	1567	588	37	18	18	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonellaceae [G-1]	bacterium HMT 150	150	788	266	53	24	24	9	1	1567	588	37	18	18	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonellaceae [G-1]	bacterium HMT 155	155	788	266	53	24	24	9	1	1567	588	37	18	18	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonellaceae [G-1]	bacterium HMT 483	483	788	266	53	24	24	9	1	1567	588	37	18	18	0	0	0	0	0	0	0	0	0
+Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Veillonellaceae [G-1]	bacterium HMT 918	918	788	266	53	24	24	9	1	1567	588	37	18	18	0	0	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	gonidiaformans	860	788	37	37	37	14	14	1	1567	61	61	61	44	44	2	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	hwasookii	953	788	37	37	37	14	14	1	1567	61	61	61	44	44	4	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	naviforme	689	788	37	37	37	14	14	1	1567	61	61	61	44	44	0	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	necrophorum	690	788	37	37	37	14	14	1	1567	61	61	61	44	44	5	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	nucleatum subsp. animalis	420	788	37	37	37	14	14	1	1567	61	61	61	44	44	10	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	nucleatum subsp. nucleatum	698	788	37	37	37	14	14	1	1567	61	61	61	44	44	4	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	nucleatum subsp. polymorphum	202	788	37	37	37	14	14	1	1567	61	61	61	44	44	7	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	nucleatum subsp. vincentii	200	788	37	37	37	14	14	1	1567	61	61	61	44	44	5	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	periodonticum	201	788	37	37	37	14	14	1	1567	61	61	61	44	44	4	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	sp. HMT 203	203	788	37	37	37	14	14	1	1567	61	61	61	44	44	2	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	sp. HMT 204	204	788	37	37	37	14	14	1	1567	61	61	61	44	44	0	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	sp. HMT 205	205	788	37	37	37	14	14	1	1567	61	61	61	44	44	0	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	sp. HMT 248	248	788	37	37	37	14	14	1	1567	61	61	61	44	44	0	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	sp. HMT 370	370	788	37	37	37	14	14	1	1567	61	61	61	44	44	1	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	buccalis	563	788	37	37	37	23	21	1	1567	61	61	61	17	15	2	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	goodfellowii	845	788	37	37	37	23	21	1	1567	61	61	61	17	15	2	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	hofstadii	224	788	37	37	37	23	21	1	1567	61	61	61	17	15	2	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	hongkongensis	213	788	37	37	37	23	21	1	1567	61	61	61	17	15	0	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	shahii	214	788	37	37	37	23	21	1	1567	61	61	61	17	15	1	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	sp. HMT 212	212	788	37	37	37	23	21	1	1567	61	61	61	17	15	1	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	sp. HMT 215	215	788	37	37	37	23	21	1	1567	61	61	61	17	15	1	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	sp. HMT 217	217	788	37	37	37	23	21	1	1567	61	61	61	17	15	0	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	sp. HMT 218	218	788	37	37	37	23	21	1	1567	61	61	61	17	15	0	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	sp. HMT 219	219	788	37	37	37	23	21	1	1567	61	61	61	17	15	0	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	sp. HMT 221	221	788	37	37	37	23	21	1	1567	61	61	61	17	15	0	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	sp. HMT 223	223	788	37	37	37	23	21	1	1567	61	61	61	17	15	0	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	sp. HMT 225	225	788	37	37	37	23	21	1	1567	61	61	61	17	15	1	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	sp. HMT 392	392	788	37	37	37	23	21	1	1567	61	61	61	17	15	0	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	sp. HMT 417	417	788	37	37	37	23	21	1	1567	61	61	61	17	15	0	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	sp. HMT 463	463	788	37	37	37	23	21	1	1567	61	61	61	17	15	0	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	sp. HMT 498	498	788	37	37	37	23	21	1	1567	61	61	61	17	15	1	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	sp. HMT 847	847	788	37	37	37	23	21	1	1567	61	61	61	17	15	1	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	sp. HMT 879	879	788	37	37	37	23	21	1	1567	61	61	61	17	15	1	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	sp. HMT 909	909	788	37	37	37	23	21	1	1567	61	61	61	17	15	0	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	wadei	222	788	37	37	37	23	21	1	1567	61	61	61	17	15	2	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	amnii [Not Validly Published]	844	788	37	37	37	23	2	1	1567	61	61	61	17	2	1	0	0	0	0	0	0	0
+Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	sanguinegens	837	788	37	37	37	23	2	1	1567	61	61	61	17	2	1	0	0	0	0	0	0	0
+Bacteria	Gracilibacteria (GN02)	Gracilibacteria (GN02) [C-1]	Gracilibacteria (GN02) [O-1]	Gracilibacteria (GN02) [F-1]	Gracilibacteria (GN02) [G-1]	bacterium HMT 871	871	788	5	4	4	4	2	1	1567	2	2	2	2	0	0	0	0	0	0	0	0	0
+Bacteria	Gracilibacteria (GN02)	Gracilibacteria (GN02) [C-1]	Gracilibacteria (GN02) [O-1]	Gracilibacteria (GN02) [F-1]	Gracilibacteria (GN02) [G-1]	bacterium HMT 872	872	788	5	4	4	4	2	1	1567	2	2	2	2	0	0	0	0	0	0	0	0	0
+Bacteria	Gracilibacteria (GN02)	Gracilibacteria (GN02) [C-1]	Gracilibacteria (GN02) [O-1]	Gracilibacteria (GN02) [F-1]	Gracilibacteria (GN02) [G-3]	bacterium HMT 996	996	788	5	4	4	4	1	1	1567	2	2	2	2	1	1	0	0	0	0	0	0	0
+Bacteria	Gracilibacteria (GN02)	Gracilibacteria (GN02) [C-1]	Gracilibacteria (GN02) [O-1]	Gracilibacteria (GN02) [F-1]	Gracilibacteria (GN02) [G-4]	bacterium HMT 997	997	788	5	4	4	4	1	1	1567	2	2	2	2	1	1	0	0	0	0	0	0	0
+Bacteria	Gracilibacteria (GN02)	Gracilibacteria (GN02) [C-2]	Gracilibacteria (GN02) [O-2]	Gracilibacteria (GN02) [F-2]	Gracilibacteria (GN02) [G-2]	bacterium HMT 873	873	788	5	1	1	1	1	1	1567	2	0	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Alphaproteobacteria [O-1]	Alphaproteobacteria [F-1]	Micavibrio	aeruginosavorus	330	788	141	24	1	1	1	1	1567	400	33	1	1	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	diminuta	590	788	141	24	2	2	1	1	1567	400	33	2	2	2	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	sp. HMT 002	2	788	141	24	2	2	1	1	1567	400	33	2	2	0	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bartonellaceae	Bartonella	schoenbuchensis	1	788	141	24	9	1	1	1	1567	400	33	15	1	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Afipia	broomeae	559	788	141	24	9	4	2	1	1567	400	33	15	3	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Afipia	sp. genotype 4	652	788	141	24	9	4	2	1	1567	400	33	15	3	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bosea	vestrisii	636	788	141	24	9	4	1	1	1567	400	33	15	3	0	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	elkanii	597	788	141	24	9	4	1	1	1567	400	33	15	3	2	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Ochrobactrum	anthropi	544	788	141	24	9	1	1	1	1567	400	33	15	2	2	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Defluvibacter	lusatiensis	660	788	141	24	9	1	1	1	1567	400	33	15	0	0	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	tumefaciens	485	788	141	24	9	2	1	1	1567	400	33	15	9	6	6	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Mesorhizobium	loti	659	788	141	24	9	2	1	1	1567	400	33	15	9	3	3	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Haematobacter	missouriensis	316	788	141	24	3	3	1	1	1567	400	33	9	9	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	yeei	104	788	141	24	3	3	1	1	1567	400	33	9	9	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter	capsulatus	857	788	141	24	3	3	1	1	1567	400	33	9	9	7	7	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Roseomonas	mucosa	245	788	141	24	1	1	1	1	1567	400	33	1	1	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Roseomonas	gilardii	244	788	141	24	1	1	1	1	1567	400	33	1	1	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillales [F-1]	Enhydrobacter	aerosaccus	196	788	141	24	1	1	1	1	1567	400	33	1	1	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Erythromicrobium	ramosum	747	788	141	24	6	1	1	1	1567	400	33	3	0	0	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	panipatense	342	788	141	24	6	5	1	1	1567	400	33	3	3	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Porphyrobacter	tepidarius	7	788	141	24	6	5	1	1	1567	400	33	3	3	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	echinoides	3	788	141	24	6	5	3	1	1567	400	33	3	3	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	sp. HMT 004	4	788	141	24	6	5	3	1	1567	400	33	3	3	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	sp. HMT 006	6	788	141	24	6	5	3	1	1567	400	33	3	3	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Achromobacter	xylosoxidans	343	788	141	50	18	2	1	1	1567	400	73	30	7	5	5	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella	pertussis	828	788	141	50	18	2	1	1	1567	400	73	30	7	2	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	cepacia	571	788	141	50	18	5	1	1	1567	400	73	30	8	2	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	gilardii	27	788	141	50	18	5	1	1	1567	400	73	30	8	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Lautropia	mirabilis	22	788	141	50	18	5	1	1	1567	400	73	30	8	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	pickettii	854	788	141	50	18	5	2	1	1567	400	73	30	8	4	4	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	sp. HMT 406	406	788	141	50	18	5	2	1	1567	400	73	30	8	4	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Comamonas	testosteroni	858	788	141	50	18	8	1	1	1567	400	73	30	12	4	4	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Delftia	acidovorans	23	788	141	50	18	8	1	1	1567	400	73	30	12	4	4	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Leptothrix	sp. HMT 025	25	788	141	50	18	8	2	1	1567	400	73	30	12	0	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Leptothrix	sp. HMT 266	266	788	141	50	18	8	2	1	1567	400	73	30	12	0	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Ottowia	sp. HMT 894	894	788	141	50	18	8	1	1	1567	400	73	30	12	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Schlegelella	aquatica	26	788	141	50	18	8	2	1	1567	400	73	30	12	0	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Schlegelella	thermodepolymerans	24	788	141	50	18	8	2	1	1567	400	73	30	12	0	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	paradoxus	717	788	141	50	18	8	1	1	1567	400	73	30	12	3	3	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Commamonadaceae	Acidovorax	ebreus	209	788	141	50	18	1	1	1	1567	400	73	30	1	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Commamonadaceae	Acidovorax	temperans	216	788	141	50	18	1	1	1	1567	400	73	30	1	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Commamonadaceae	Acidovorax	caeni	211	788	141	50	18	1	1	1	1567	400	73	30	1	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Eikenella	corrodens	577	788	141	50	31	31	2	1	1567	400	73	43	43	2	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Eikenella	sp. HMT 011	11	788	141	50	31	31	2	1	1567	400	73	43	43	2	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	denitrificans	582	788	141	50	31	31	6	1	1567	400	73	43	43	4	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	kingae	646	788	141	50	31	31	6	1	1567	400	73	43	43	4	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	oralis	706	788	141	50	31	31	6	1	1567	400	73	43	43	4	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	sp. HMT 012	12	788	141	50	31	31	6	1	1567	400	73	43	43	4	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	sp. HMT 459	459	788	141	50	31	31	6	1	1567	400	73	43	43	4	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Kingella	sp. HMT 932	932	788	141	50	31	31	6	1	1567	400	73	43	43	4	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	bacilliformis	13	788	141	50	31	31	20	1	1567	400	73	43	43	36	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	cinerea	956	788	141	50	31	31	20	1	1567	400	73	43	43	36	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	elongata	598	788	141	50	31	31	20	1	1567	400	73	43	43	36	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	flava	609	788	141	50	31	31	20	1	1567	400	73	43	43	36	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	flavescens	610	788	141	50	31	31	20	1	1567	400	73	43	43	36	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	gonorrhoeae	621	788	141	50	31	31	20	1	1567	400	73	43	43	36	3	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	lactamica	649	788	141	50	31	31	20	1	1567	400	73	43	43	36	3	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	macacae	99	788	141	50	31	31	20	1	1567	400	73	43	43	36	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	meningitidis	669	788	141	50	31	31	20	1	1567	400	73	43	43	36	13	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	mucosa	682	788	141	50	31	31	20	1	1567	400	73	43	43	36	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	oralis	14	788	141	50	31	31	20	1	1567	400	73	43	43	36	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	perflava	101	788	141	50	31	31	20	1	1567	400	73	43	43	36	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	polysaccharea	737	788	141	50	31	31	20	1	1567	400	73	43	43	36	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	sicca	764	788	141	50	31	31	20	1	1567	400	73	43	43	36	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	sp. HMT 018	18	788	141	50	31	31	20	1	1567	400	73	43	43	36	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	sp. HMT 020	20	788	141	50	31	31	20	1	1567	400	73	43	43	36	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	sp. HMT 499	499	788	141	50	31	31	20	1	1567	400	73	43	43	36	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	sp. HMT 523	523	788	141	50	31	31	20	1	1567	400	73	43	43	36	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	subflava	476	788	141	50	31	31	20	1	1567	400	73	43	43	36	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	weaveri	92	788	141	50	31	31	20	1	1567	400	73	43	43	36	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseriaceae [G-1]	bacterium HMT 327	327	788	141	50	31	31	1	1	1567	400	73	43	43	0	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseriaceae [G-1]	bacterium HMT 174	174	788	141	50	31	31	1	1	1567	400	73	43	43	0	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Simonsiella	muelleri	683	788	141	50	31	31	1	1	1567	400	73	43	43	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Rhodocyclus	sp. HMT 028	28	788	141	50	1	1	1	1	1567	400	73	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	sp. HMT 039	39	788	141	5	1	1	1	1	1567	400	4	0	0	0	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	Desulfobulbus	sp. HMT 041	41	788	141	5	1	1	1	1	1567	400	4	2	2	2	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfomicrobiaceae	Desulfomicrobium	orale	703	788	141	5	3	1	1	1	1567	400	4	2	1	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	fairfieldensis	605	788	141	5	3	2	2	1	1567	400	4	2	1	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	sp. HMT 040	40	788	141	5	3	2	2	1	1567	400	4	2	1	1	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	concisus	575	788	141	9	9	8	8	1	1567	400	30	30	18	18	5	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	curvus	580	788	141	9	9	8	8	1	1567	400	30	30	18	18	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	gracilis	623	788	141	9	9	8	8	1	1567	400	30	30	18	18	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	rectus	748	788	141	9	9	8	8	1	1567	400	30	30	18	18	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	showae	763	788	141	9	9	8	8	1	1567	400	30	30	18	18	4	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	sp. HMT 044	44	788	141	9	9	8	8	1	1567	400	30	30	18	18	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	sputorum	776	788	141	9	9	8	8	1	1567	400	30	30	18	18	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	ureolyticus	842	788	141	9	9	8	8	1	1567	400	30	30	18	18	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	pylori	812	788	141	9	9	1	1	1	1567	400	30	30	12	12	12	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Cardiobacteriales	Cardiobacteriaceae	Cardiobacterium	hominis	633	788	141	53	2	2	2	1	1567	400	260	2	2	2	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Cardiobacteriales	Cardiobacteriaceae	Cardiobacterium	valvarum	540	788	141	53	2	2	2	1	1567	400	260	2	2	2	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cronobacter	sakazakii	753	788	141	53	10	9	1	1	1567	400	260	99	98	5	5	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	cancerogenus	565	788	141	53	10	9	2	1	1567	400	260	99	98	3	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	hormaechei	634	788	141	53	10	9	2	1	1567	400	260	99	98	3	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	coli	574	788	141	53	10	9	1	1	1567	400	260	99	98	52	52	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	aerogenes	153	788	141	53	10	9	2	1	1567	400	260	99	98	7	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	pneumoniae	731	788	141	53	10	9	2	1	1567	400	260	99	98	7	6	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kluyvera	ascorbata	865	788	141	53	10	9	1	1	1567	400	260	99	98	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Proteus	mirabilis	676	788	141	53	10	9	1	1	1567	400	260	99	98	5	5	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Yersinia	pestis	827	788	141	53	10	9	1	1	1567	400	260	99	98	25	25	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Serratia	marcescens	115	788	141	53	10	1	1	1	1567	400	260	99	1	1	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	actinomycetemcomitans	531	788	141	53	21	21	9	1	1567	400	260	94	94	42	36	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	aphrophilus	545	788	141	53	21	21	9	1	1567	400	260	94	94	42	3	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	paraphrophilus	720	788	141	53	21	21	9	1	1567	400	260	94	94	42	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	segnis	762	788	141	53	21	21	9	1	1567	400	260	94	94	42	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	sp. HMT 458	458	788	141	53	21	21	9	1	1567	400	260	94	94	42	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	sp. HMT 512	512	788	141	53	21	21	9	1	1567	400	260	94	94	42	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	sp. HMT 513	513	788	141	53	21	21	9	1	1567	400	260	94	94	42	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	sp. HMT 898	898	788	141	53	21	21	9	1	1567	400	260	94	94	42	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Aggregatibacter	sp. HMT 949	949	788	141	53	21	21	9	1	1567	400	260	94	94	42	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	aegyptius	535	788	141	53	21	21	12	1	1567	400	260	94	94	52	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	ducreyi	821	788	141	53	21	21	12	1	1567	400	260	94	94	52	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	haemolyticus	851	788	141	53	21	21	12	1	1567	400	260	94	94	52	8	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	influenzae	641	788	141	53	21	21	12	1	1567	400	260	94	94	52	24	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	parahaemolyticus	945	788	141	53	21	21	12	1	1567	400	260	94	94	52	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	parainfluenzae	718	788	141	53	21	21	12	1	1567	400	260	94	94	52	12	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	paraphrohaemolyticus	35	788	141	53	21	21	12	1	1567	400	260	94	94	52	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	pittmaniae	946	788	141	53	21	21	12	1	1567	400	260	94	94	52	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	sp. HMT 036	36	788	141	53	21	21	12	1	1567	400	260	94	94	52	2	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	sp. HMT 259	259	788	141	53	21	21	12	1	1567	400	260	94	94	52	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	sp. HMT 908	908	788	141	53	21	21	12	1	1567	400	260	94	94	52	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	sputorum	944	788	141	53	21	21	12	1	1567	400	260	94	94	52	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	baumannii	554	788	141	53	18	11	6	1	1567	400	260	57	27	11	7	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	johnsonii	297	788	141	53	18	11	6	1	1567	400	260	57	27	11	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	junii	282	788	141	53	18	11	6	1	1567	400	260	57	27	11	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	lwoffii	5	788	141	53	18	11	6	1	1567	400	260	57	27	11	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	radioresistens	10	788	141	53	18	11	6	1	1567	400	260	57	27	11	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	sp. HMT 408	408	788	141	53	18	11	6	1	1567	400	260	57	27	11	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	catarrhalis	833	788	141	53	18	11	5	1	1567	400	260	57	27	16	13	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	lincolnii	154	788	141	53	18	11	5	1	1567	400	260	57	27	16	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	nonliquefaciens	98	788	141	53	18	11	5	1	1567	400	260	57	27	16	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	osloensis	711	788	141	53	18	11	5	1	1567	400	260	57	27	16	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	sp. HMT 276	276	788	141	53	18	11	5	1	1567	400	260	57	27	16	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	aeruginosa	536	788	141	53	18	7	7	1	1567	400	260	57	30	30	11	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	fluorescens	612	788	141	53	18	7	7	1	1567	400	260	57	30	30	7	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	luteola	344	788	141	53	18	7	7	1	1567	400	260	57	30	30	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	otitidis	834	788	141	53	18	7	7	1	1567	400	260	57	30	30	1	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	pseudoalcaligenes	740	788	141	53	18	7	7	1	1567	400	260	57	30	30	3	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	sp. HMT 032	32	788	141	53	18	7	7	1	1567	400	260	57	30	30	0	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	stutzeri	477	788	141	53	18	7	7	1	1567	400	260	57	30	30	7	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	maltophilia	663	788	141	53	2	2	2	1	1567	400	260	8	8	8	7	0	0	0	0	0	0	0
+Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	nitritireducens	37	788	141	53	2	2	2	1	1567	400	260	8	8	8	1	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Candidatus Saccharimonas	aalborgensis	988	788	24	24	24	23	1	1	1567	11	11	11	11	1	1	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-1]	bacterium HMT 346	346	788	24	24	24	23	10	1	1567	11	11	11	11	6	0	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-1]	bacterium HMT 347	347	788	24	24	24	23	10	1	1567	11	11	11	11	6	0	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-1]	bacterium HMT 348	348	788	24	24	24	23	10	1	1567	11	11	11	11	6	2	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-1]	bacterium HMT 349	349	788	24	24	24	23	10	1	1567	11	11	11	11	6	0	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-1]	bacterium HMT 352	352	788	24	24	24	23	10	1	1567	11	11	11	11	6	0	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-1]	bacterium HMT 353	353	788	24	24	24	23	10	1	1567	11	11	11	11	6	0	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-1]	bacterium HMT 488	488	788	24	24	24	23	10	1	1567	11	11	11	11	6	1	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-1]	bacterium HMT 869	869	788	24	24	24	23	10	1	1567	11	11	11	11	6	0	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-1]	bacterium HMT 952	952	788	24	24	24	23	10	1	1567	11	11	11	11	6	2	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-1]	bacterium HMT 957	957	788	24	24	24	23	10	1	1567	11	11	11	11	6	1	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-2]	bacterium HMT 350	350	788	24	24	24	23	1	1	1567	11	11	11	11	0	0	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-3]	bacterium HMT 351	351	788	24	24	24	23	4	1	1567	11	11	11	11	0	0	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-3]	bacterium HMT 364	364	788	24	24	24	23	4	1	1567	11	11	11	11	0	0	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-3]	bacterium HMT 367	367	788	24	24	24	23	4	1	1567	11	11	11	11	0	0	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-3]	bacterium HMT 371	371	788	24	24	24	23	4	1	1567	11	11	11	11	0	0	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-4]	bacterium HMT 355	355	788	24	24	24	23	1	1	1567	11	11	11	11	0	0	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-6]	bacterium HMT 870	870	788	24	24	24	23	1	1	1567	11	11	11	11	0	0	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-7]	bacterium HMT 954	954	788	24	24	24	23	4	1	1567	11	11	11	11	3	0	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-7]	bacterium HMT 986	986	788	24	24	24	23	4	1	1567	11	11	11	11	3	1	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-7]	bacterium HMT 987	987	788	24	24	24	23	4	1	1567	11	11	11	11	3	1	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-7]	bacterium HMT 989	989	788	24	24	24	23	4	1	1567	11	11	11	11	3	1	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-1]	Saccharibacteria (TM7) [G-8]	bacterium HMT 955	955	788	24	24	24	23	1	1	1567	11	11	11	11	1	1	0	0	0	0	0	0	0
+Bacteria	Saccharibacteria (TM7)	Saccharibacteria (TM7) [C-1]	Saccharibacteria (TM7) [O-1]	Saccharibacteria (TM7) [F-2]	Saccharibacteria (TM7) [G-5]	bacterium HMT 356	356	788	24	24	24	1	1	1	1567	11	11	11	0	0	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	amylovorum	541	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	denticola	584	788	50	50	50	50	50	1	1567	35	35	35	35	35	17	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	lecithinolyticum	653	788	50	50	50	50	50	1	1567	35	35	35	35	35	2	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	maltophilum	664	788	50	50	50	50	50	1	1567	35	35	35	35	35	1	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	medium	667	788	50	50	50	50	50	1	1567	35	35	35	35	35	1	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	pallidum	805	788	50	50	50	50	50	1	1567	35	35	35	35	35	9	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	parvum	724	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	pectinovorum	725	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	putidum	743	788	50	50	50	50	50	1	1567	35	35	35	35	35	1	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	socranskii	769	788	50	50	50	50	50	1	1567	35	35	35	35	35	2	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 226	226	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 227	227	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 228	228	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 230	230	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 231	231	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 232	232	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 234	234	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 235	235	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 236	236	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 237	237	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 238	238	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 239	239	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 242	242	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 246	246	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 247	247	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 249	249	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 250	250	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 251	251	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 252	252	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 253	253	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 254	254	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 256	256	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 257	257	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 258	258	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 260	260	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 262	262	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 263	263	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 264	264	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 265	265	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 268	268	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 269	269	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 270	270	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 271	271	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 490	490	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 508	508	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 517	517	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 518	518	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 927	927	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	sp. HMT 951	951	788	50	50	50	50	50	1	1567	35	35	35	35	35	0	0	0	0	0	0	0	0
+Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	vincentii	29	788	50	50	50	50	50	1	1567	35	35	35	35	35	2	0	0	0	0	0	0	0
+Bacteria	Synergistetes	Synergistia	Synergistales	Dethiosulfovibrionaceae	Jonquetella	anthropi	777	788	8	8	8	2	1	1	1567	8	8	8	7	3	3	0	0	0	0	0	0	0
+Bacteria	Synergistetes	Synergistia	Synergistales	Dethiosulfovibrionaceae	Pyramidobacter	piscolens	357	788	8	8	8	2	1	1	1567	8	8	8	7	4	4	0	0	0	0	0	0	0
+Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	Fretibacterium	fastidiosum	363	788	8	8	8	6	6	1	1567	8	8	8	1	1	1	0	0	0	0	0	0	0
+Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	Fretibacterium	sp. HMT 358	358	788	8	8	8	6	6	1	1567	8	8	8	1	1	0	0	0	0	0	0	0	0
+Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	Fretibacterium	sp. HMT 359	359	788	8	8	8	6	6	1	1567	8	8	8	1	1	0	0	0	0	0	0	0	0
+Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	Fretibacterium	sp. HMT 360	360	788	8	8	8	6	6	1	1567	8	8	8	1	1	0	0	0	0	0	0	0	0
+Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	Fretibacterium	sp. HMT 361	361	788	8	8	8	6	6	1	1567	8	8	8	1	1	0	0	0	0	0	0	0	0
+Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	Fretibacterium	sp. HMT 362	362	788	8	8	8	6	6	1	1567	8	8	8	1	1	0	0	0	0	0	0	0	0
+Bacteria	WPS-2	WPS-2 [C-1]	WPS-2 [O-1]	WPS-2 [F-1]	WPS-2 [G-1]	sp. HMT 999	999	788	1	1	1	1	1	1	1567	1	1	1	1	1	1	0	0	0	0	0	0	0
+Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	oralis	815	1	1	1	1	1	1	1	3	3	3	3	3	3	3	0	0	0	0	0	0	0
+
