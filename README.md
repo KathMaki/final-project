@@ -9,7 +9,11 @@ This is a project that compares three reference databases for the number of uniq
 
 The three databases analyzed were Greengenes, Silva, and Human Oral Microbiome Database and the links embedding into the python notebook were accessed on 3/2020.
 
-
+## Main Project
+The main project python notebook is listed in "final-project.ipynb"
+Data is housed in the data_input folder
+Any images that were used in the markdown are saved in the img folder
+Extra code or code that errored was stored in a seperate python notebook called "Error_extra_commands.ipynb"
 
 ## License
 
